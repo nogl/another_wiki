@@ -1,0 +1,11 @@
+{
+  "name": "another-wiki-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Another Wiki",
+  "scripts": {
+    "start": "serve ./public"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
